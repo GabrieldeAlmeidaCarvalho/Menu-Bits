@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "frontend-mobile",
+    "slug": "frontend-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "",
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": ["js", "jsx", "json", "wasm", "svg"]
+    },
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./src/assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "Allow $(PRODUCT_NAME) to access your camera"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "permissions": ["android.permission.CAMERA"]
+    },
+    "web": {
+      "favicon": "./src/assets/icon.png"
+    }
+  }
+}
