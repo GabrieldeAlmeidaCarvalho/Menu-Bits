@@ -10,9 +10,6 @@
 * <a href="https://github.com/GabrieldeAlmeidaCarvalho">Gabriel de Almeida</a>
 * <a href="https://github.com/RafaelPereira7L">Rafael Pereira</a>
 
-## Orientador
-
-* Pedro Alves de Oliveira
 
 ## Instruções de utilização
 
