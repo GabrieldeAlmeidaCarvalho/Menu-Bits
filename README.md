@@ -1,12 +1,5 @@
 # MenuBits
 
-`Tecnologia em Análise e Desenvolvimento de Sistemas`
-
-`Projeto: Desenvolvimento de uma Aplicação Backend com Frontend Web e Mobile`
-
-`4º semestre`
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
@@ -80,10 +73,3 @@ MONGO_DATABASE_URL="mongodb+srv://menubits:AmltDMmr9R6B17Iw@menubits.0tjqjw6.mon
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
 
-# Código
-
-<li><a href="src/README.md"> Código Fonte</a></li>
-
-# Apresentação
-
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
