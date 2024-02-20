@@ -1,5 +1,6 @@
 # MenuBits
 
+O MenuBits é um inovador cardápio digital projetado para simplificar a operação de restaurantes. Oferece atualização fácil de preços, acesso rápido via QR Code, detalhes abrangentes dos produtos e estatísticas úteis de vendas. Para os clientes, proporciona atendimento ágil, sem os inconvenientes da sujeira dos cardápios tradicionais, além de opções exclusivas que só a tecnologia digital pode oferecer, elevando o conforto e a satisfação geral.
 
 ## Integrantes
 
